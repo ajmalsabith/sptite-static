@@ -1,0 +1,414 @@
+.color
+{
+    
+    background:#009b4e;
+    width:100%;
+    height:70px;
+    position: fixed
+}body
+{
+    margin:0px;
+}
+.photo
+{
+    width:110px;
+    height:40px;
+    margin-left:34px;
+    padding-top:14px;
+    float: left;
+    
+
+}
+.main{
+    height:80px;
+    margin-left:15px;
+    width:1050px;
+    font-family: "FuturaBT W05 ExtraBlack Italic";
+    float:left;
+   
+
+    }
+.size
+{
+    font-size:13px;
+    font-weight:500;
+    color:white;
+    margin-left:82px;
+    padding-top:15px;
+    
+} 
+.main1{
+    height:80px;
+    width:200px;
+    float:left;
+}
+.main2{
+    height:80px;
+    width:180px;
+    float:left;
+
+}
+.size2{
+    font-size:13px;
+    font-weight:500;
+    color:white;
+    margin-left:-18px;
+    padding-top:15px;
+    float:left;
+    font-family:"AvenirNextLTW01-Medium";
+
+}
+.main3{
+    height:80px;
+    width:200px;
+    float:left;
+    font-family: "FuturaBT W05 ExtraBlack Italic"!important;
+
+}
+
+.size3{
+    font-size:13px;
+    font-weight:500;
+    color:white;
+    margin-left:-70px;
+    padding-top:15px;
+    float:left;
+}
+.main4
+{
+    width:300;
+    height:70;
+    float:left;
+
+} 
+.main5{
+    width:17px;
+    height:17px;
+    background:white;
+    float:left;
+    margin-top:28px;
+    margin-left:57px;
+    border-radius:50% ;
+
+}  
+.image2
+{
+   width:11px;
+   height:11px;
+   margin-left:3px;
+   margin-top:3px;
+  
+}
+.main6
+{
+    width:17px;
+    height:17px;
+    background:white;
+    float:left;
+    margin-top:28px;
+    margin-left:20px;
+    border-radius:50% ;
+}
+.main7
+{
+    width:11px;
+   height:11px;
+   margin-left:3px;
+   margin-top:3px;
+}
+.main8
+{
+    width:17px;
+    height:17px;
+    background:white;
+    float:left;
+    margin-top:28px;
+    margin-left:20px;
+    border-radius:50% ;
+}
+.main9
+{
+    width:9px;
+    height:8px;
+    margin-left:4px;
+    margin-top:5px;
+    
+}
+.main10
+{
+    width:17px;
+    height:17px;
+    background:white;
+    float:left;
+    margin-top:28px;
+    margin-left:20px;
+    border-radius:50% ;
+}
+.main11
+{
+    width:9px;
+    height:8px;
+    margin-left:4px;
+    margin-top:5px;
+    
+}
+.main12
+{
+    width:17px;
+    height:17px;
+    background:white;
+    float:left;
+    margin-top:28px;
+    margin-left:20px;
+    border-radius:50% ;
+
+}
+.main13
+{
+    width:13px;
+    height:8px;
+    margin-left:2px;
+    margin-top:4px;
+    
+}
+.main14
+{
+    width:17px;
+    height:17px;
+    float:left;
+    margin-top:28px;
+    margin-left:35px;
+    border-radius:50% ;
+
+
+}
+.main16
+{
+   
+    width:1000px;
+    height:600px;   
+    
+}
+.main15{
+    width:19px;
+    height:19px;
+    fill: white;
+    margin-top:-2px;
+}
+
+
+.imo{
+    
+    width: 100%;
+    height:414px;
+    margin:0px;
+
+}
+.imo2{
+    width:50%;
+    height:414px;
+    background:#00b33d;
+    float:left;
+    margin-top:70px;
+    
+}
+.imo3{
+    width:50%;
+    height:414px;
+    float:left;
+} 
+.imo4{
+    margin-top:70px;
+    float:left;
+    width:100%;
+    height:414px;
+}
+.m1{
+    width:100%;
+    height:555px;
+    background:white;
+}
+.imo5{
+    width:100%;
+    height:540px;
+    background:white;
+}
+form{
+    font-size: 32px;
+    font-weight:900;
+    color: white;
+}
+.mp{
+    margin-left: 200px;
+    margin-top:74px ;
+}
+.mp1{
+    margin-left: 198px;
+    margin-top:-44px ;
+
+}
+.mp4{
+    background: white;
+    border: none;
+    text-align: center;
+    font-size: 20px;
+    color: green;
+    margin-left:200px;
+    margin-top:-12px;
+
+    
+}
+button :hover{
+    background-color: black;
+}
+.mp5{
+    font-style: italic;
+    background:white;
+    font-size: 20px;
+    color: black;
+    margin-left: 367px;
+    margin-top:-50px ;
+    font-weight: bold;
+}
+.mp6{
+    font-size: 13px;
+    color: black;
+    margin-left: 367px;
+    margin-top:-14px ;
+
+}
+.video{
+    width:800px;
+    height:430px;
+    margin-left: 365px;
+    margin-top:25px;
+
+}
+.image3{
+    width: 27px;
+    height: 27px;
+    margin-left:1136px ;
+    margin-top: 6px;
+}
+.os1{
+    width: 100%;
+    height: 500px;
+    background:#f7f7f8;
+    text-align: center;
+}
+.os2{
+    width: 50%;
+    height: 500px;
+}
+.os3{
+    width:100%;
+    height:381px;
+    background: #009b4e;
+
+}
+
+
+.os4{
+    width:180px;
+    height:70px;
+    margin-left:220px;
+    margin-top:80px;
+}
+.os5{
+    font-size: 15px;
+    font-family:"FuturaBT W05 ExtraBlack";
+    font-style: italic;
+    font-weight: bold;
+    margin-top: -85px;
+    margin-left: 450px;
+    color: white;
+}
+.os6{
+    font-size: 15px;
+    font-family:"FuturaBT W05 ExtraBlack";
+    font-style: italic;
+    font-weight: bold;
+    margin-top: -33px;
+    margin-left: 1000px;
+    color: white;
+}
+.os7{
+    font-size: 15px;
+    font-family:"FuturaBT W05 ExtraBlack";
+    font-style: italic;
+    font-weight: bold;
+    margin-top: 50px;
+    margin-left: 1020px;
+    color: white;
+}
+.os8{
+    font-size: 15px;
+    font-family:"FuturaBT W05 ExtraBlack";
+    font-style: italic;
+    font-weight: bold;
+    margin-top: -6px;
+    margin-left: 1020px;
+    color: white;
+}
+.os9{
+    font-size: 15px;
+    font-family:"FuturaBT W05 ExtraBlack";
+    font-style: italic;
+    font-weight: bold;
+    margin-top: 2px;
+    margin-left: 1020px;
+    color: white;
+}
+.os10{
+    font-size: 15px;
+    font-family:"FuturaBT W05 ExtraBlack";
+    font-style: italic;
+    font-weight: bold;
+    margin-top: 10px;
+    margin-left: 1020px;
+    color: white;
+}
+.os11{
+    font-size: 15px;
+    font-family:"FuturaBT W05 ExtraBlack";
+    font-style: italic;
+    font-weight: bold;
+    margin-top: 18px;
+    margin-left: 1020px;
+    color: white;
+}
+.om1{
+    display: flex;
+    width:500px;
+    height:80px;
+    margin-left: 600px;
+    margin-top: -215px;
+    align-items: center;
+    
+    
+    
+}
+.pl2,.pl3,.pl1,.pl4,.pl5
+{
+    width: 30px;
+    height: 30px;
+   margin-left:25px;
+}.text1{
+
+    font-size: 15px;
+    font-family:"FuturaBT W05 ExtraBlack";
+    font-style: italic;
+    font-weight: bold;
+    color: white;
+    margin-left:580px;
+    margin-top:156px;
+}.text2{
+    font-size: 15px;
+    font-family:"FuturaBT W05 ExtraBlack";
+    font-style: italic;
+    font-weight: bold;
+    color:white;
+    margin-left:400px;
+    margin-top:0px;
+}
+
